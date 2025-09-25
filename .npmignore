@@ -1,0 +1,17 @@
+.idea
+bower_components
+node_modules
+.github
+.circleci
+.vscode
+Dockerfile
+docker-compose.yml
+.eslintrc
+.bithoundrc
+.eslintignore
+.dccache
+portal
+.nyc_output
+.nycrc
+coverage
+welcome.txt

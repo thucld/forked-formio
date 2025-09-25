@@ -1,0 +1,23 @@
+{
+  "title": "malformedForms",
+  "name": "malformedForms",
+  "version": "2.0.0",
+  "description": "",
+  "roles": {},
+  "resources": {},
+  "forms": [
+    {
+      "title": "a",
+      "type": "form",
+      "name": "a",
+      "path": "a",
+      "pdfComponents": [],
+      "tags": [],
+      "submissionAccess": [],
+      "access": [],
+      "components": []
+    }
+  ],
+  "actions": {},
+  "revisions": {}
+}
