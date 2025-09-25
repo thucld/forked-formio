@@ -66,6 +66,8 @@ You can then download this repository, navigate to the folder in your Terminal, 
 ```
 npm install
 npm start
+
+
 ```
 
 This will walk you through the installation process.  When it is done, you will have a running Form.io management
@@ -74,6 +76,7 @@ application running at the following address in your browser.
 ```
 http://localhost:3001
 ```
+Sau khi cài xong, truy cập db **formioapp** > collection **actions** > Edit record có machineName == "userLogin:login", thêm tại settings.resources IDs của các form có type=resource (lấy tại collection forms)
 
 The installation process will also ask if you would like to download an application. If selected, the application can be found at the following URL.
 
